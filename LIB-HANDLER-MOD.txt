@@ -11,8 +11,8 @@
     {
       "name": "TEST",
       "status": "MAINTENANCE",
-      "lib_name": "libTest.so",
-      "download_url": "https://tojipanel.x10.mx/Farlight/libTest.so", 
+      "lib_name": "libTEST.so",
+      "download_url": "https://tojipanel.x10.mx/Farlight/libTEST.so", 
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
   ]
