@@ -2,7 +2,7 @@
   "menu_title": "SYSTEM SELECT",
   "systems": [
     {
-      "name": "DAIRY MILK",
+      "name": "GOLDEN",
       "status": "ONLINE",
       "lib_name": "libGOLDEN.so",
       "download_url": "https://tojipanel.x10.mx/Farlight/libGOLDEN.so", 
