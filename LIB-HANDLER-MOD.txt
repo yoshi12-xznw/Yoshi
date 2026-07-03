@@ -4,13 +4,13 @@
     {
       "name": "DAIRY MILK",
       "status": "ONLINE",
-      "lib_name": "libDAIRYMLIK.so",
-      "download_url": "https://tojipanel.x10.mx/Farlight/libDAIRYMILK.so", 
+      "lib_name": "libGOLDEN.so",
+      "download_url": "https://tojipanel.x10.mx/Farlight/libGOLDEN.so", 
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
       "name": "TEST",
-      "status": "ONLINE",
+      "status": "MAINTENANCE",
       "lib_name": "libTest.so",
       "download_url": "https://tojipanel.x10.mx/Farlight/libTest.so", 
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
