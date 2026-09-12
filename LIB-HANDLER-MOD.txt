@@ -2,15 +2,15 @@
   "menu_title": "SYSTEM SELECT",
   "systems": [
     {
-      "name": "GOLDEN",
+      "name": YOSHI REBORN",
       "status": "ONLINE",
-      "lib_name": "libGOLDEN.so",
-      "download_url": "https://tojipanel.x10.mx/Farlight/libGOLDEN.so", 
+      "lib_name": "libYOHSHI.so",
+      "download_url": "https://tojipanel.x10.mx/Farlight/libYOSHI.so", 
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     },
     {
       "name": "TEST",
-      "status": "ONLINE",
+      "status": "MAINTENANCE",
       "lib_name": "libTEST.so",
       "download_url": "https://tojipanel.x10.mx/Farlight/libTEST.so", 
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
